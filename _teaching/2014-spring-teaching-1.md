@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Peer tutor"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Carnegie Mellon University, Compter Science Department"
+date: Sep 2020 ~ Dec 2023
+location: "Pittsburgh, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Taught more than 20 students, usually introductury courses.
+---
+Taught courses are: Concepts of Mathematics, Computer Systems, Parallel Algorithms, Introductory Programming.
