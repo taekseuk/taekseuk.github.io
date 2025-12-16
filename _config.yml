@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Taekseung Kim/Taxi"
+title                    : "Taekseung 'Taxi' Kim"
 title_separator          : "-"
 name                     : &name "Taekseung Kim"
 description              : &description "Taxi . Stop"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -225,10 +225,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -271,22 +271,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
