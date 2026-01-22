@@ -1,7 +1,7 @@
 ---
 title: "ADDITIVE s-FUNCTIONAL INEQUALITIES AND DERIVATIONS ON BANACH ALGEBRAS"
 collection: publications
-category: journal
+category: conferences
 permalink: /publication/Functional inequality
 excerpt: 
 date: 2019-02-19
