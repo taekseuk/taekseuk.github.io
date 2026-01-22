@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Peer-tutor
 venue: "CMU, Computer Science Department"
-date: 
+date: "2020-09-15"
 location: "Pittsburgh, USA"
 ---
 
